@@ -1,5 +1,5 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen)
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
