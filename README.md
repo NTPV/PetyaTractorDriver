@@ -15,7 +15,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 
 - E-mail: [iq36@yandex.ru](mailto:iq36@yandex.ru)
 - Telegram: [t.me/LogiaBio](https://t.me/LogiaBio)
-- GitHub: [github.com/ntdv](https://github.com/PetyaTractorDriver)
+- GitHub: [github.com/PetyaTractorDriver](https://github.com/PetyaTractorDriver)
 - LinkedIn: [Soon]
 
 
