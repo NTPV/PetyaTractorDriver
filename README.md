@@ -6,6 +6,20 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - 🛠 Mastering: `soon`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Telegram** communities
+
+  ## 📚 Looking for my Resume?
+- English: [Soon]
+- Русский: [Soon]
+
+## 📬 Get in Touch
+
+- E-mail: [iq36@yandex.ru](mailto:iq36@yandex.ru)
+- Telegram: [t.me/LogiaBio](https://t.me/LogiaBio)
+- GitHub: [github.com/ntdv](https://github.com/PetyaTractorDriver)
+- LinkedIn: [Soon]
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetyaTractorDriver&theme=default)
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
