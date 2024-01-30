@@ -1,7 +1,7 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen) 
 Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
-- 🎓 Informatics and Computer Science [VSU]((https://en.wikipedia.org/wiki/Voronezh_State_University)) student
+- 🎓 Informatics and Computer Science [VSU](https://en.wikipedia.org/wiki/Voronezh_State_University). student
 - 💻 case lab participant 
 - 🛠 Mastering: `soon`
 - 👯 Looking to collaborate on **Open Source** projects
