@@ -12,7 +12,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
   ## 📚 Looking for my Resume?
 - English: [Soon]
 - Русский: [Soon]
-- - Старое: [Soon]
+- Старое: [Old Resume](https://github.com/PetyaTractorDriver/PetyaTractorDriver/blob/main/Resume%20(Old).pdf)
 
 ## 📬 Get in Touch
 
