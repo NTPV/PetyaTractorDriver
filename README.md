@@ -12,6 +12,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
   ## 📚 Looking for my Resume?
 - English: [Soon]
 - Русский: [Soon]
+- - Старое: [Soon]
 
 ## 📬 Get in Touch
 
