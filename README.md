@@ -23,9 +23,13 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - LinkedIn: [Soon]
 
 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetyaTractorDriver&theme=default)
+![image](https://github.com/PetyaTractorDriver/PetyaTractorDriver/assets/125459815/6c7ac0ec-c13e-4359-b609-1143951b0f42)
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
