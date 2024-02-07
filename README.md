@@ -1,6 +1,7 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen) 
-![Coming soon](https://img.shields.io/badge/Soon--%23fc790a?logo=java)
+![Word](https://img.shields.io/badge/Word--%230769AD?logo=Word)
+![Coming soon](https://img.shields.io/badge/Exsel--%23fc790a?logo=java)
 ![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
 
 Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
