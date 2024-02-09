@@ -4,7 +4,7 @@
 ![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
 ![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
 
-Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
+Futrure developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 - 🎓 Informatics and Computer Science [VSU](https://en.wikipedia.org/wiki/Voronezh_State_University). student
 - 💻 SAP case lab participant 
 - 🛠 Mastering: `soon`
