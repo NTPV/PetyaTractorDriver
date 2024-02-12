@@ -1,4 +1,4 @@
-# Hello, gI'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen) 
 ![Word](https://img.shields.io/badge/Word--%230769AD?logo=Word)
 ![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
