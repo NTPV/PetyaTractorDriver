@@ -10,7 +10,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - 💻 SAP case lab participant 
 - 🛠 Mastering: `soon`
 - 👯 Looking to collaborate on **Open Source** projects
-- 💬 Most active in the **Telegram** communities Blender 3D, Adobe Illustrator, 1с унф, markdown, svg, LaTex, .tex
+- 💬 Most active in the **Telegram** communities Blender 3D, Adobe Illustrator, 1с унф, markdown, svg, LaTex, .tex, .rar, win rar
 
   ## 📚 Looking for my Resume?
 - English: [Soon]
