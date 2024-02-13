@@ -27,7 +27,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetyaTractorDriver&theme=default)
-![Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petyatractordriver&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
+
 
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
